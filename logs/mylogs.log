@@ -1,0 +1,21 @@
+20230306 19:21:40 INFO  [main] base.BasePage BasePage.java60 - usernameentered in field
+20230306 19:21:40 INFO  [main] steps.StepsPOM StepsPOM.java63 - valid username is entered
+20230306 19:21:41 INFO  [main] base.BasePage BasePage.java69 - loginButton is clicked
+20230306 19:21:45 INFO  [main] base.BasePage BasePage.java60 - usernameentered in field
+20230306 19:21:45 INFO  [main] steps.StepsPOM StepsPOM.java63 - valid username is entered
+20230306 19:21:45 INFO  [main] base.BasePage BasePage.java60 - passwordentered in field
+20230306 19:21:51 INFO  [main] base.BasePage BasePage.java69 - loginButton is clicked
+20230306 19:21:55 INFO  [main] base.BasePage BasePage.java60 - usernameentered in field
+20230306 19:21:55 INFO  [main] steps.StepsPOM StepsPOM.java63 - valid username is entered
+20230306 19:21:55 INFO  [main] base.BasePage BasePage.java60 - passwordentered in field
+20230306 19:21:55 INFO  [main] base.BasePage BasePage.java69 - rememberMe is clicked
+20230306 19:22:03 INFO  [main] base.BasePage BasePage.java69 - loginButton is clicked
+20230306 19:22:03 INFO  [main] base.BasePage BasePage.java69 - LoggedInUser is clicked
+20230306 19:22:03 INFO  [main] base.BasePage BasePage.java69 - logout is clicked
+20230306 19:22:09 INFO  [main] base.BasePage BasePage.java69 - forgetpassword is clicked
+20230306 19:22:09 INFO  [main] base.BasePage BasePage.java60 - userNameentered in field
+20230306 19:22:10 INFO  [main] base.BasePage BasePage.java69 - continueButton is clicked
+20230306 19:22:15 INFO  [main] base.BasePage BasePage.java60 - usernameentered in field
+20230306 19:22:15 INFO  [main] steps.StepsPOM StepsPOM.java63 - valid username is entered
+20230306 19:22:15 INFO  [main] base.BasePage BasePage.java60 - passwordentered in field
+20230306 19:22:16 INFO  [main] base.BasePage BasePage.java69 - loginButton is clicked
